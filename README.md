@@ -37,8 +37,8 @@ If you encounter any issues or have questions, please create an "Issue" in the r
 # References
 During the process of writing the source code for these repositories, I referred to and learned from the following documentation:
 
-[Vue.js Documentation]:https://vuejs.org/guide/introduction.html
-[Vuex Documentation]:https://vuex.vuejs.org/
-[Vue Router Documentation]:https://router.vuejs.org/
+- [Vue.js Documentation](https://vuejs.org/guide/introduction.html)
+- [Vuex Documentation](https://vuex.vuejs.org/)
+- [Vue Router Documentation](https://router.vuejs.org/)
 
 Thank you for visiting! I hope these repositories are helpful to you in learning Vue.js.
